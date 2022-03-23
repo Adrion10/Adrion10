@@ -11,7 +11,7 @@ I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I lov
 -🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lace-hilaj-248509136/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Lace-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lace-hilaj-248509136/)
 - :office: [LinkedIn]( https://www.linkedin.com/in/lace-hilaj-248509136/ ) 
 - 😄 Pronouns:  Full Stack Web Developer 
 - ⚡ Fun fact: 
