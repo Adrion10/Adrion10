@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I love to build Full stack Application and currently focusing on MERN Project
-GIF
+
 
 -Talking about Personal Stuffs:
 -👨🏽‍💻 I’m currently working on MERN project
