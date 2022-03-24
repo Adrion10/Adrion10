@@ -1,6 +1,5 @@
-### Hi there 👋
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-### &nbsp;About Me :
 
 I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I love to build Full stack Application and currently focusing on MERN Project
 
@@ -22,7 +21,7 @@ I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I lov
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -31,7 +30,7 @@ I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I lov
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p width="80%>
+<p align= "center" width="100%>
  <img src="https://github.com/Adrion10/laceproject1/blob/main/img/giphy.gif" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/Adrion10/laceproject1/blob/main/img/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
  <img src="https://github.com/Adrion10/laceproject1/blob/main/img/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -42,7 +41,6 @@ I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I lov
 <img src="https://github.com/Adrion10/laceproject1/blob/main/img/nodejs.gif" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/Adrion10/laceproject1/blob/main/img/mongoDB.png" title="MySQL"  alt="MongoDb" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Adrion10/laceproject1/blob/main/img/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 
 </p>
