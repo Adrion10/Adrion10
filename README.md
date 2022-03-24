@@ -7,8 +7,8 @@ I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I lov
 
 - 🔭 I’m currently working on MERN project
 - 🌱 I’m currently learning Javascript, React, Frontend Design, Node.js, MongoDB 
+- 🌱 I’m addicted to learning and growing every day
 - 👯 I’m looking to collaborate on Full Stack Projects 
--🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Lace-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lace-hilaj-248509136/)
