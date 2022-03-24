@@ -43,11 +43,11 @@ I'm Lace Hilaj, Student at Digital Carreer Institut. I am tech enthusiast, I lov
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=lace hilaj&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 ---
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=lace hilaj&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Adrion10/Adrion10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
