@@ -44,6 +44,25 @@ I'm Lace Hilaj, student at Digital Carreer Institut. I am tech enthusiast, I lov
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 
 </p>
+                                                                                                                                 name: gitartwork from a contribution graph
+ on: 
+   push:
+   schedule:
+     - cron: '* */24 * * *'
+   workflow_dispatch:
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v2
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: DropFan
+            # Text on contribution graph 
+            text: Lace
+       - uses: jasineri/simple-push-action@v1
 
 <!--
 **Adrion10/Adrion10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
